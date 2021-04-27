@@ -4,7 +4,7 @@ owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
 contact me :- [AYUSH](https://t.me/request_ayush)
 
-# Slam Mirror Bot
+# Slam Mirror Botz
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
